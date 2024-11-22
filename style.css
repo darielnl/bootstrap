@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-color: #ffa500;
+    padding-top: 50px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+
+.bit {
+    font-size: 70px
+}
+
+.hero .text-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.hero .image-content img {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.companies-section {
+    background-color: #f8f9fa;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.companies-section img {
+    max-width: 120px;
+    margin: 10px;
+}
+
+.courses-section {
+    padding: 40px 20px;
+}
+
+.card {
+    border: none;
+    margin-bottom: 20px;
+    background-color: #F8F5EF;
+}
